@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+__pycache__/
+
+# 入力の PDF と、取り出したテキスト
+pdf/*
+!pdf/.gitkeep
+text/
